@@ -1,6 +1,5 @@
 import 'package:bonus_app_admin/exports.dart';
-import 'package:bonus_app_admin/pages/splash_page.dart';
-import 'package:flutter_dotenv/flutter_dotenv.dart';
+
 
 
 void main() async{
