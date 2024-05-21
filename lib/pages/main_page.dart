@@ -4,7 +4,7 @@ import 'package:flutter_svg/svg.dart';
 
 class MainPage extends StatefulWidget {
   const MainPage({super.key});
-
+  
   @override
   State<MainPage> createState() => _MainPageState();
 }
